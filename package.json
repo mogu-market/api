@@ -1,6 +1,6 @@
 {
   "name": "@mogu-market/api",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple express wrapper for json apis.",
   "main": "api.js",
   "scripts": {
